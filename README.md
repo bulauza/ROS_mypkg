@@ -7,8 +7,8 @@ RoboSys homework2(ROS)
 * old_Makefile を使用してmakeすることも可能
 
 ## 使用環境
-|Raspberry pi3|  
-|OS: ubuntu16.04.5 LTS|  
+Raspberry pi3  
+OS: ubuntu16.04.5 LTS  
 
 ## 実行方法
 * `roslaunch mypkg time.launch`
