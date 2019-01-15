@@ -18,6 +18,7 @@ OS: ubuntu16.04.5 LTS
 * ブラウザで`http://ラズパイのIPアドレス:8000`を閲覧  
 
 ## 動画
+https://m.youtube.com/watch?v=tOGJu9LrKG8
 
 ## 参考にしたサイト
 https://github.com/ryuichiueda/robosys2018/blob/master/11_ros.md  
